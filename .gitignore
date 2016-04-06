@@ -1,0 +1,44 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.rdb
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+
+# NPM packages folder.
+node_modules/
+npm-debug*
+
+# Brunch folder for temporary files.
+tmp/
+
+# Brunch output folder.
+#public/
+
+# Bower stuff.
+bower_components/
+
+scraper/listings/
+deploy
+
+.env
+Procfile
+ngrok.yml
+logstash*
+
+rethinkdb_data/*

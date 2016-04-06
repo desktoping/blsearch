@@ -1,0 +1,17 @@
+{
+  "name": "blsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "jsdom": "^8.3.0",
+    "kue": "^0.10.5"
+  }
+}
