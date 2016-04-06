@@ -1,0 +1,911 @@
+[
+  {
+    "LicenseNum": "2002169.053-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Above All Las Vegas ATV Tours and Watercraft Rentals ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "14555 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2002572.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Arms of Angels Homecare ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "6671 Las Vegas Blvd S Suite 210Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000549.081-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "BIG BOYS MOVING ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "27 Pine RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000003.832 ",
+    "MultiJNum": ".",
+    "BusinessName": "Black Canyon/Willow Beach River Adventures, L.L.C. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18000 E Us Hwy 93 SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000003.552 ",
+    "MultiJNum": ".",
+    "BusinessName": "C G Enterprises ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "15472 Miguel Way Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000008.935 ",
+    "MultiJNum": ".",
+    "BusinessName": "Cc Landfill Energy, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12420 N Interstate Hwy 15Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000638.165 ",
+    "MultiJNum": ".",
+    "BusinessName": "Cemex Construction Materials Pacific, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "14998 Las Vegas Blvd SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001229.GEN-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Century Gaming Technologies ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Temporary License ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001209.CON-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Century Gaming Technologies ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Temporary License ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001972.GAM-103 ",
+    "MultiJNum": ".",
+    "BusinessName": "Century Gaming Technologies ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Temporary License ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1000985.561 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dam Helicopter Company Inc ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18000 E Us Hwy 93 SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000104.051-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dead Pine Music ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "3952 Ski Trail CirMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001982.702 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dotty's #42 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10925 S Maryland PkwyLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001428.GAM-103 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dotty's #42 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10925 S Maryland PkwyLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000903.GEN-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dotty's #42 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10925 S Maryland PkwyLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000900.CON-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dotty's #42 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10925 S Maryland PkwyLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2002177.LIQ-106 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dotty's #42 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10925 S Maryland PkwyLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1001537.410 ",
+    "MultiJNum": ".",
+    "BusinessName": "Edible Gourmet (The) ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "8880 Fortney RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000215.264 ",
+    "MultiJNum": ".",
+    "BusinessName": "Eldorado Land Corporation ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "14555 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000098.042-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Eldorado Rock & Sand LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12455 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000286.262 ",
+    "MultiJNum": ".",
+    "BusinessName": "Falling Horse Gallery ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "4193 Mont Blanc Way Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1039563.740 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1039567.815 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000084.866 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1039564.700-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1040741.LIQ-104 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1040742.LIQ-107 ",
+    "MultiJNum": ".",
+    "BusinessName": "Forever Resorts Callville Bay ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "100 Callville RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000011.031-170 ",
+    "MultiJNum": ".",
+    "BusinessName": "Geneva Polymer Products, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Pending ",
+    "BusinessAddress": "12555 S US 95Boulder City, NV 89124"
+  },
+  {
+    "LicenseNum": "2000267.560 ",
+    "MultiJNum": ".",
+    "BusinessName": "Georgia-Pacific Gypsum LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11401 N Us Hwy 91Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001611.702 ",
+    "MultiJNum": ".",
+    "BusinessName": "Godfather's Pizza ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000927.CON-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Golden Route Operations LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000934.GEN-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Golden Route Operations LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001473.GAM-103 ",
+    "MultiJNum": ".",
+    "BusinessName": "Golden Route Operations LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000010.595 ",
+    "MultiJNum": ".",
+    "BusinessName": "Irriscape Construction Nevada ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11825 Blue Diamond RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000666.240 ",
+    "MultiJNum": "1002026383",
+    "BusinessName": "Irriscape Construction Nevada ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": "NORTH LAS VEGAS ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11825 Blue Diamond RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1000126.825 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lake Mead Boat Storage ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2300 E Lake Mead PkwyHenderson, NV 89124"
+  },
+  {
+    "LicenseNum": "2000517.810 ",
+    "MultiJNum": ".",
+    "BusinessName": "Larry's Concealed Weapons Permits and Co. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "124 Sir Turner DrLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000254.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Event Photography ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "146 Blanda CirLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1002094.LIQ-127 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Paiute Resort Clubhouse ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2 Nuvakai DrLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1002141.LIQ-127 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Paiute Resort Clubhouse ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2 Nuvakai DrLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000014.595 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Rock, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "21016 S Las Vegas BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001906.056-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Ski and Snowboard Resort ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1004049.700-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000095.345 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000124.226-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1004049.LIQ-104 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000040.812 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000378.220 ",
+    "MultiJNum": ".",
+    "BusinessName": "Lee Canyon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "Hc 38 Box 556Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000470.532 ",
+    "MultiJNum": ".",
+    "BusinessName": "Love's Travel Stop #340 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2002615.LIQ-108 ",
+    "MultiJNum": ".",
+    "BusinessName": "Love's Travel Stop #340 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001291.400 ",
+    "MultiJNum": ".",
+    "BusinessName": "Love's Travel Stop #340 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000348.703 ",
+    "MultiJNum": ".",
+    "BusinessName": "Love's Travel Stop #340 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000194.740 ",
+    "MultiJNum": ".",
+    "BusinessName": "Love's Travel Stop #340 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001318.023-140 ",
+    "MultiJNum": "1002172108",
+    "BusinessName": "MOLONEY CONTRACTING INC. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": "HENDERSON,LAS VEGAS,NORTH LAS VEGAS ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "264 Rainbow Canyon BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2002148.LIQ-104 ",
+    "MultiJNum": ".",
+    "BusinessName": "Mount Charleston Lodge ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "5375 Kyle Canyon Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001092.700-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Mount Charleston Lodge ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "5375 Kyle Canyon Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1000001.855 ",
+    "MultiJNum": ".",
+    "BusinessName": "Mt Charleston Water Co ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "4784 Old Park Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1000001.725 ",
+    "MultiJNum": ".",
+    "BusinessName": "Mt Charleston Water Co ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2707 Kyle Canyon RDLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000223.431-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "MT. CHARLESTON CABINS ASSOCIATION ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "5355 Kyle Canyon Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000163.430 ",
+    "MultiJNum": ".",
+    "BusinessName": "MT. CHARLESTON CABINS ASSOCIATION ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "5355 Kyle Canyon Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1000004.935 ",
+    "MultiJNum": ".",
+    "BusinessName": "Nevada Cogeneration Associates #2 ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Pending ",
+    "BusinessAddress": "8000 E Lake Mead BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000659.571 ",
+    "MultiJNum": ".",
+    "BusinessName": "No Hoof No Horse Farrier Service ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12460 Gelber Ave Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000072.405-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "NOS Nevada ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "310 Kris Kringle RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000374.055-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "One Motorsports ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18400 Highway 160Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000075.560 ",
+    "MultiJNum": ".",
+    "BusinessName": "Pabco Gypsum ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "4001 State Hwy 147Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000123.770 ",
+    "MultiJNum": ".",
+    "BusinessName": "Pro Gun Club ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12801 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001955.LIQ-106 ",
+    "MultiJNum": ".",
+    "BusinessName": "Pro Gun Club ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12801 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000009.750 ",
+    "MultiJNum": ".",
+    "BusinessName": "Pro Gun Club ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12801 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000050.105 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ritchie BROS. Auctioneers (AMERICA) Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10500 Clark Petersen BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000319.737 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ritchie BROS. Auctioneers (AMERICA) Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10500 Clark Petersen BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000046.846 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ritchie BROS. Auctioneers (AMERICA) Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10500 Clark Petersen BlvdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001845.543 ",
+    "MultiJNum": ".",
+    "BusinessName": "Sawyer Services ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "4784 Old Park Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000265.810 ",
+    "MultiJNum": ".",
+    "BusinessName": "Shooting Safaris ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "12801 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001610.702 ",
+    "MultiJNum": ".",
+    "BusinessName": "Subway ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12501 Apex Great Basin WayLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000653.810 ",
+    "MultiJNum": ".",
+    "BusinessName": "Surefire Institute, Las Vegas ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12801 S Us Hwy 95Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2002996.053-170 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Lennox Las Vegas ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "430 E Cactus AveLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000602.CON-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000363.700-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000062.518 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000938.GAM-103 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000055.430 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000681.130 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000599.GEN-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000188.226-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000421.866 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000655.LIQ-104 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000073.520-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000090.431-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000763.247 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Resort on Mount Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "2755 Kyle Canyon RdMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001381.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "University of Mt.Charleston ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "4457 Yellow Pine AveMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2002092.056-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Utility Services, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12460 Gelber Ave Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2001217.543 ",
+    "MultiJNum": ".",
+    "BusinessName": "Utility Services, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "12460 Gelber Ave Las Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1002696.237 ",
+    "MultiJNum": ".",
+    "BusinessName": "Water Utility Service Co ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "1306 Old Park Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2001625.543 ",
+    "MultiJNum": ".",
+    "BusinessName": "Water Utility Services LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "4784 Old Park Rd Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1000071.706 ",
+    "MultiJNum": ".",
+    "BusinessName": "Westcare Nevada Inc ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "State Rte 200 KYLE CANYONMt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "1003978.GEN-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "William Hill Race & Sports Book ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18000 E US Highway 93 SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1003978.GAM-106 ",
+    "MultiJNum": ".",
+    "BusinessName": "William Hill Race & Sports Book ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18000 E US Highway 93 SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "1003978.CON-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "William Hill Race & Sports Book ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "18000 E US Highway 93 SLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000058.506 ",
+    "MultiJNum": ".",
+    "BusinessName": "Winches Plus ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "8880 Kulka RdLas Vegas, NV 89124"
+  },
+  {
+    "LicenseNum": "2000362.301 ",
+    "MultiJNum": ".",
+    "BusinessName": "Woodencad Designs, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "115 Tyrol Wy Mt Charleston, NV 89124"
+  },
+  {
+    "LicenseNum": "2000101.062-190 ",
+    "MultiJNum": ".",
+    "BusinessName": "Zen Therapeutic Bodywork & Massage ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "163 Eagle Nest CirLas Vegas, NV 89124"
+  }
+]

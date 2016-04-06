@@ -1,14 +1,12 @@
 var jsdom = require("jsdom"),
-  fs = require("fs"),
   kue = require('kue'),
   co = require('co'),
   q = kue.createQueue(),
-  ctr = 0,
-  zip = 109; //number of zip codes on the blsearch
+  ctr = 2,
+  zip = 109; //number of zip codes on the blsearch -- 107
 
 co(function *() {
   while (ctr < zip) {
-    console.log(ctr);
     yield process(ctr);
     ctr++;
   }
@@ -22,21 +20,32 @@ function process(ctr) {
       function (err, window) {
         if (err) return reject(err);
         var $ = window.$;
-        $("select[name='zipcode'] option:eq("+ ctr +")").prop('selected', true);
-        
-        if ($("select[name='zipcode'] option:selected").text() === '')
-          return resolve();
-
-        var form = $("input[name='cb_submit']").closest("form");
-        $.post($(form).attr('action'), $(form).serialize(), function (data) {
-          q.create('bl-jobs', {
-            data
-          }).save(function (err) {
-            if (err) return reject(err);
-            return resolve();
+        $(function () {
+          $("select[name='zipcode']").addClass("zip");
+          $(".zip option:eq("+ ctr +")").prop("selected", true);
+          $("form").removeAttr("onsubmit");
+          console.log("sending ajax %d", ctr);
+          var request = $.ajax({
+            url: $("form").attr("action"),
+            method: "POST",
+            data: $("form").serialize(),
           });
-        }, function (err) {
-          return reject(err);
+
+          request.done(function( msg ) {
+            //save html to queue
+            q.create('bl-jobs', {
+              data: msg
+            }).save(function (err) {
+              if (err) return reject(err);
+              console.log('done adding job %d', ctr);
+              return resolve();
+            });
+          });
+
+          request.fail(function( jqXHR, textStatus ) {
+            return reject(textStatus);
+          });
+
         });
       }
     );

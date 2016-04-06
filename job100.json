@@ -1,0 +1,875 @@
+[
+  {
+    "LicenseNum": "2000033.023-140 ",
+    "MultiJNum": "1002146363",
+    "BusinessName": "A.R.K. Plumbing Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": "NORTH LAS VEGAS ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11209 Hazel Rock StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001069.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Abderrahim El Jaouhari ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7032 Grand Junction AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001099.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "ACELINE Vending ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7738 Wolf Wood CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001934.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Aloha Home Care II ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7742 Kit Carson AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002093.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Andre Lazar Polk ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7549 Luna Bella AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001974.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Arlene Fandino ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7565 Perla Del Mar AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001529.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Begin Industries LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7711 Ornamento WayLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000737.023-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Black Mountain Home Services ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7947 Dell Ridge AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001307.045-241 ",
+    "MultiJNum": ".",
+    "BusinessName": "BurnTToasT LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10536  La Campana StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000957.054-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "C Studio L.L.C ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7431 Morisset AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001414.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Cactus Loan Consulting LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10992 Prairie Grove RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000865.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Carl Agbleze ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7871 Red Rock Ridge AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001219.558 ",
+    "MultiJNum": ".",
+    "BusinessName": "Cg Graphics, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11219 Hazel Rock StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002202.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Comfort Care Home ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7096 Glencoe Harbor AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002107.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Conrad E. Tuttle ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7418 Bakewell AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001314.056-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Credit Corrector LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7713 Jasmine Falls DrLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001548.320 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dastrup, Amber ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "10544 El Cerrito Chico StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001036.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Dennis G Yuson ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7457 Horizon Rock AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001190.519 ",
+    "MultiJNum": ".",
+    "BusinessName": "Diaz, Terri ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11057 Mount Pendleton StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001612.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Elephants & Yoga ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7742 Jasmine Falls DrLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000698.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Erin Moore ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7075 Fort Tule AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001640.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "ez hospitality consulting llc ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10539 El Cerrito Chico StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000368.052-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "EZ Investments LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10539 El Cerrito Chico StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000220.023-140 ",
+    "MultiJNum": "1002150269",
+    "BusinessName": "Fenix Construction ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7336 Apache Mission CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2003465.507 ",
+    "MultiJNum": ".",
+    "BusinessName": "Fig's Janitorial ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7329 Charreado CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001061.023-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Filipino Handyman on Demand ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7647 Jasmine Falls DrLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001577.054-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Fresh Impressions Creative LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10670 Tulip Valley RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002808.237 ",
+    "MultiJNum": ".",
+    "BusinessName": "Gdspectrum, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "6983 Grand Junction AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001407.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Global Synergies NV, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7016 Town Forest AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002063.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "GOMOYO LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10670 Tulip Valley RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002622.081-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "GP STYLES, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7604 Perla Del Mar AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000414.052-125 ",
+    "MultiJNum": ".",
+    "BusinessName": "Great Point Capital LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10958 Mountain Willow StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001084.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Grzegorz Waszkiewicz ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7296 Arrowrock AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000064.048-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "GT Logistics Corp ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11086 Fort Bowie StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002179.054-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Hanz Julian Corpuz ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7662 Flounder Bay AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002201.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Hassan M Kaboudan ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10973 Dunoon StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002053.054-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Help Desk Vegas ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7728 Pista WayLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002223.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ignacio Pina ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7002 Placid Lake AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002913.237 ",
+    "MultiJNum": ".",
+    "BusinessName": "Infotech Consulting LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10629 Cliff Lake StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000285.810 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ipath, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7667 Dewy Falls AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000364.465 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ipath, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7667 Dewy Falls AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000299.061-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Jamie Harvey ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "10632 Summerbell StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001919.405-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "Jana's Jade Gallery, LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10954 Dunoon StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002274.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "John Alexander ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10974 Dunoon StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000203.598 ",
+    "MultiJNum": ".",
+    "BusinessName": "Joseph Rosso Home Inspections ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "6965 Galeria Posada AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000476.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Joshua Hartmann ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10579 Painted Bridge StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000821.023-420 ",
+    "MultiJNum": ".",
+    "BusinessName": "Juston Perkins Trucking LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11181 Fort Vasquez StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002173.054-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Kara Peterson ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10978 Elk Sands RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000693.054-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Kasabians' Empire Designs ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7131 Indian Gap AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001119.056-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Kids Info. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7490 Pepperbox AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000559.568 ",
+    "MultiJNum": ".",
+    "BusinessName": "Las Vegas Wedding Wagon ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "11166 Ranch Valley StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001638.519 ",
+    "MultiJNum": ".",
+    "BusinessName": "Li, Gui Rong ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7460 Benlomond AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002088.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Maria Dy Home In Care L.L.C. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7282 Blowing Breeze AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001261.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Markey L. Davis ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7403 Atacama AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000665.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Mingzhu He ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7480 Pepperbox AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000708.310 ",
+    "MultiJNum": ".",
+    "BusinessName": "Moxie Event Lighting ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7129 Huckaby AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002527.081-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Optimistik Motivaterz LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10976 Prairie Grove RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002885.237 ",
+    "MultiJNum": ".",
+    "BusinessName": "Organizational Elements L.L.C ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7971 Dell Ridge AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001803.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Origin Apparel Company ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10645 Upper Laurel StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000350.010 ",
+    "MultiJNum": ".",
+    "BusinessName": "Osborne, Dianne ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10859 Morning Frost StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000144.055 ",
+    "MultiJNum": ".",
+    "BusinessName": "P.K. Thistle Architect ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7383 Atacama AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000070.056-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Park Avenue Group ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10948 Mount Pendleton StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000563.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Paul Thorsen ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7514 Dobroyd DrLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000929.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "Peter L Poirier ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7032 Placid Lake AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000320.810 ",
+    "MultiJNum": ".",
+    "BusinessName": "Pilates Center of Las Vegas Ltd. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10624 Entrance Arch StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001477.062-220 ",
+    "MultiJNum": ".",
+    "BusinessName": "Qing Cao ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11088 Mount Hunter StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001936.056-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Quick clean maids ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7343 Apache Mission CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001318.519 ",
+    "MultiJNum": ".",
+    "BusinessName": "Roberts, Nichole ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11182 Ranch Valley StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002328.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Scndl Socks ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "11197 Hickory Glen StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002034.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "SIDEKICK'S CAFE ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10948 Mount Pendleton StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000804.320 ",
+    "MultiJNum": ".",
+    "BusinessName": "Siena Care Management, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11232 Aurora Cove CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001127.054-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Silver State Printing ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7063 Town Forest AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002162.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Sin City Cowgirls ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11028 Parslow StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001784.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "spoil babies llc ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "10539 El Cerrito Chico StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001766.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Steel Blue Photography ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7458 Earnshaw AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002537.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "TechDefy, LLC. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Pending ",
+    "BusinessAddress": "11045 Elk Sands RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000645.054-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Telescopic Insights Group LLC ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11192 Ferguson Springs StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000769.GEN-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000476.866 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001368.702 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000769.CON-102 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001757.LIQ-104 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001212.GAM-103 ",
+    "MultiJNum": ".",
+    "BusinessName": "The Bounty ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10591 South Rainbow BlvdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002359.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Tony Tran Photo ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11008 Prairie Grove RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001986.062-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Tranquility Massage ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7458 Earnshaw AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000809.044-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Tricia-Ann's Tasty Creations ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7464 Benlomond AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001299.045-101 ",
+    "MultiJNum": ".",
+    "BusinessName": "Ultimate Advantage ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7370 Cobbhan DrLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000821.346 ",
+    "MultiJNum": ".",
+    "BusinessName": "V&W General Merchandise ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7341 Caballo Range AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000439.301 ",
+    "MultiJNum": ".",
+    "BusinessName": "Val Lehnerd Design ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7163 Las Colinas AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001166.023-120 ",
+    "MultiJNum": ".",
+    "BusinessName": "Valleywide Handyman Services L.L.C. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7784 Lovely Squaw CtLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001981.054-121 ",
+    "MultiJNum": ".",
+    "BusinessName": "Vam Event Management ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "10639 Snow Lake StLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000306.409 ",
+    "MultiJNum": ".",
+    "BusinessName": "Vegas Valley Herbs ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7542 Tressider AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002649.510 ",
+    "MultiJNum": ".",
+    "BusinessName": "Vegasboy Handyman Services ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Revoked - Delinquent ",
+    "BusinessAddress": "7246 Huckaby AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000976.519 ",
+    "MultiJNum": ".",
+    "BusinessName": "Wang, Xiao Yu ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7460 Benlomond AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2000313.960 ",
+    "MultiJNum": ".",
+    "BusinessName": "Wild Adventures Zoo, Inc. ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "7052 Grand Junction AveLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2001164.048-122 ",
+    "MultiJNum": ".",
+    "BusinessName": "William Tangog ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Licensed ",
+    "BusinessAddress": "11031 Hunting Hawk RdLas Vegas, NV 89179"
+  },
+  {
+    "LicenseNum": "2002176.062-220 ",
+    "MultiJNum": ".",
+    "BusinessName": "Xin Xin ",
+    "PrimaryJurisdiction": "Clark County ",
+    "NonPrimaryJurisdiction": " ",
+    "LicenseStatus": "Limited License ",
+    "BusinessAddress": "7527 Alamo Ranch AveLas Vegas, NV 89179"
+  }
+]

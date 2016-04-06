@@ -5,14 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "node --harmony index.js",
+    "worker": "node --harmony worker.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "co": "^4.6.0",
+    "co-each": "^0.1.0",
     "jsdom": "^8.3.0",
-    "kue": "^0.10.5"
+    "kue": "^0.10.5",
+    "parse5": "^2.1.5"
   }
 }
-
