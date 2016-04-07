@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node --harmony index.js",
-    "date-mining": "node --harmony searchbydate.js",
+    "date": "node --harmony date.js",
     "worker": "node --harmony worker.js"
   },
   "author": "",

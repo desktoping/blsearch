@@ -1,47 +1,56 @@
+/* VARIABLES */
 var jsdom = require('jsdom'),
-  CronJob = require('cron').CronJob,
-  kue = require('kue'),
-  co = require('co'),
-  moment = require('moment');
-  cheerio = require('cheerio'),
-  fs = require('fs'),
-  each = require('co-each'),
-  q = kue.createQueue();
-
-var dateTo = '';
-var dateFrom = '';
+    CronJob = require('cron').CronJob,
+    kue = require('kue'),
+    co = require('co'),
+    moment = require('moment');
+    cheerio = require('cheerio'),
+    fs = require('fs'),
+    each = require('co-each'),
+    q = kue.createQueue(),
+    dateTo = '',
+    dateFrom = '';
 
 var job = new CronJob({
   cronTime: '00 00 00 * * 6',
   onTick: function() {
-    //runs every sunday
+    /* runs every sunday 00:00:00 
+     * this is a script that will scrape data weekly
+     */
     dateTo = moment().format('MM/DD/YYYY');
     dateFrom = moment().subtract(7,'d').format('MM/DD/YYYY');
 
     co(function *() {
       try {
-        var data = yield processing();
-      } catch (err) {
-        console.log(err);
-      }
-      try {
+        /* @returns - array */
+        var data = yield scraping();
         fs.writeFileSync(__dirname + '/' + cleanDate(dateFrom) + '-' + cleanDate(dateTo) +'.json', JSON.stringify(data, null, 2), 'utf-8');
+        console.log('done');
       } catch (err) {
         console.log(err);
       }
-      console.log('done');
     });
   },
   start: false,
   timeZone: 'America/Los_Angeles'
 });
+
 job.start();
+
+
+/* FUNCTIONS */
 
 function cleanDate(date) {
   return date.replace(/\//g, "");
 }
 
-function processing() {
+function importing(dataArr) {
+  return new Promise(function (resolve, reject) {
+    /* TODO importing stuff. */
+  });
+}
+
+function scraping() {
   return new Promise(function (resolve, reject) {
     jsdom.env(
       "https://blepay.clarkcountynv.gov/bleligibility/blinmult.asp",
@@ -50,12 +59,11 @@ function processing() {
         if (err) return reject(err);
         var $ = window.$;
         $(function () {
-          // -- it seems value of input boxes cannot be changed :(
-          
+          /* -- it seems value of input boxes cannot be changed :( */
           $("input[name='startBusDate']").parent().html("<select name='startBusDate'><option selected value='"+ dateFrom +"'></option></select><select name='endBusDate'><option selected value='"+ dateTo +"'></option></select>");
           
           $("form").removeAttr("onsubmit");
-          console.log("sending ajax");
+          console.log("submitting form ...");
           var request = $.ajax({
             url: $("form").attr("action"),
             method: "POST",
@@ -63,7 +71,7 @@ function processing() {
           });
 
           request.done(function( data ) {
-            console.log('got the html');
+            console.log('recieved response, counting ...');
 
             var valid = [];
             var heads = [
@@ -88,10 +96,9 @@ function processing() {
               }
             });
 
-            console.log('valid businesses: %d', valid.length);
+            console.log('valid businesses found: %d', valid.length);
 
             var followHref = function (obje) {
-              console.log('following %s', obje.href);
               return new Promise(function (resolve, reject) {
                 var req = $.ajax({
                   url: obje.href,
@@ -99,7 +106,6 @@ function processing() {
                 });
 
                 req.done(function (html) {
-                  console.log('got the result from %s', obje.href);
                   var obj = {},
                     property = '';
 
@@ -137,6 +143,7 @@ function processing() {
                 });
 
                 req.fail(function (jqXHR, textStatus) {
+                  console.log('received error, aborting ...\n Error info: %s', textStatus);
                   return reject(textStatus);
                 })
               });
@@ -144,12 +151,13 @@ function processing() {
 
             co(function *() {
               var data = yield each(valid, followHref);
-              console.log('there are %d number of items returned.', data.length);
+              console.log('there are %d item(s) returned -- done.', data.length);
               return resolve(data);
             });     
           });
 
           request.fail(function( jqXHR, textStatus ) {
+            console.log('received error, aborting ...\n Error info: %s', textStatus);
             return reject(textStatus);
           });
 
