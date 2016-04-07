@@ -1,34 +1,45 @@
-var jsdom = require("jsdom"),
+var jsdom = require('jsdom'),
+  CronJob = require('cron').CronJob,
   kue = require('kue'),
   co = require('co'),
+  moment = require('moment');
   cheerio = require('cheerio'),
   fs = require('fs'),
   each = require('co-each'),
-  dotenv = require('dotenv'),
   q = kue.createQueue();
 
-dotenv.load({path: __dirname + '/.env'});
+var dateTo = '';
+var dateFrom = '';
 
-var dateTo = process.env.DATE_TO || '';
-var dateFrom = process.env.DATE_FROM || '';
+var job = new CronJob({
+  cronTime: '00 00 00 * * 6',
+  onTick: function() {
+    //runs every sunday
+    dateTo = moment().format('MM/DD/YYYY');
+    dateFrom = moment().subtract(7,'d').format('MM/DD/YYYY');
+
+    co(function *() {
+      try {
+        var data = yield processing();
+      } catch (err) {
+        console.log(err);
+      }
+      try {
+        fs.writeFileSync(__dirname + '/' + cleanDate(dateFrom) + '-' + cleanDate(dateTo) +'.json', JSON.stringify(data, null, 2), 'utf-8');
+      } catch (err) {
+        console.log(err);
+      }
+      console.log('done');
+    });
+  },
+  start: false,
+  timeZone: 'America/Los_Angeles'
+});
+job.start();
 
 function cleanDate(date) {
   return date.replace(/\//g, "");
 }
-
-co(function *() {
-  try {
-    var data = yield processing();
-  } catch (err) {
-    console.log(err);
-  }
-  try {
-    fs.writeFileSync(__dirname + '/' + cleanDate(dateFrom) + '-' + cleanDate(dateTo) +'.json', JSON.stringify(data, null, 2), 'utf-8');
-  } catch (err) {
-    console.log(err);
-  }
-  console.log('done');
-});
 
 function processing() {
   return new Promise(function (resolve, reject) {
