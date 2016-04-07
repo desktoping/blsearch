@@ -1,67 +1,64 @@
-var kue = require('kue'),
-  cheerio = require('cheerio'),
-  fs = require("fs"),
-  each = require('co-each'),
-  co = require('co'),
-  arr = [],
-  obj = {},
-  q = kue.createQueue();
+var co = require('co'),
+  dotenv = require('dotenv'),
+  kue = require("kue"),
+  fs = require('fs'),
+  req = require('superagent'),
 
+q = kue.createQueue();
+dotenv.load({path: __dirname + '/.env'});
 
 q.process('bl-jobs', function (job, done) {
+  console.log('working on job %d', job.id);
+  
+  var arrXml = [],
+      xml = '',
+      ctr = 0,
+      data = job.data;
 
-  var html = job.data.data.replace(/\r?\n|\r/g, '').replace(/\t/g, '');
-  $ = cheerio.load(html);
+  function cleanString(string) {
+    return string.replace("\'", " ").replace("\"", " ").replace(">", " ").replace("<", " ").replace("&", "and")
+  }
 
-  var data = $("table:nth-child(2) td");
+  console.log(data.length, 'accounts to add');
+  for (var i = 0; i < data.length; i++) {
+    var xml = '<Accounts><row no="1"><FL val="Account Name">'+ cleanString(data[i]['Business Name']) +'</FL>';
 
-  data.map(function (key, data) {
-    var text = $(data).text();
-    switch (key % 7) {
-      case 0:
-        if (text === 'License Num')
-          break;
-        obj = {};
-        obj = Object.assign(obj, {LicenseNum: text});
-        break;
-      case 1:
-        if (text === 'Multi-J Num')
-          break;
-        obj = Object.assign(obj, {MultiJNum: text});
-        break;
-      case 2:
-        if (text === 'Business name')
-          break;
-        obj = Object.assign(obj, {BusinessName: text});
-        break;
-      case 3:
-        if (text === 'Primary Jurisdiction')
-          break;
-        obj = Object.assign(obj, {PrimaryJurisdiction: text});
-        break;
-      case 4:
-        if (text === 'Non Primary Jurisdiction')
-          break;
-        obj = Object.assign(obj, {NonPrimaryJurisdiction: text});
-        break;
-      case 5:
-        if (text === 'License Status')
-          break;
-        obj = Object.assign(obj, {LicenseStatus: text});
-        break;
-      case 6:
-        if (text === 'Business Address')
-          break;
-        obj = Object.assign(obj, {BusinessAddress: text});
-        arr.push(obj);
-        break;
-      default:
+    delete data[i]['Business Name']
+    for (prop in data[i]) {
+      xml += '<FL val="' + cleanString(prop) + '">' + cleanString(data[i][prop]) + '</FL>';
     }
-  });
-  var stringArr = JSON.stringify(arr, null, 2);
-  fs.writeFileSync('job' + job.id + '.json', stringArr, 'utf-8');
-  arr = [];
-  obj = {};
-  done();
+    xml += '</row></Accounts>';
 
+    arrXml.push(xml);
+  }
+
+  co(function *() {
+    while (ctr < arrXml.length) {
+      yield processing(arrXml[ctr]);
+      console.log(ctr, 'of ', arrXml.length, ' accounts processed.' );
+      ctr++;
+    }
+    done();
+  });
+
+  function processing(data) {
+    return new Promise(function (resolve, reject) {
+      req
+        .post('https://crm.zoho.com/crm/private/xml/Accounts/insertRecords')
+        .query({newFormat: 1})
+        .query({authtoken: process.env.ZOHO_AUTH})
+        .query({scope: 'crmapi'})
+        .query({duplicateCheck: 2})
+        .query({version: 4})
+        .query({xmlData: data})
+        .end(function (err, res) {
+          //console.log(res.text);
+          if (err) return reject(err);
+          return resolve();
+        });
+    });
+  }
 });
+
+
+
