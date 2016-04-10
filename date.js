@@ -1,21 +1,22 @@
 /* VARIABLES */
 var jsdom = require('jsdom'),
     CronJob = require('cron').CronJob,
-    kue = require('kue'),
     co = require('co'),
+    req = require('superagent'),
     moment = require('moment');
     cheerio = require('cheerio'),
-    fs = require('fs'),
+    dotenv = require('dotenv'),
     each = require('co-each'),
-    q = kue.createQueue(),
     dateTo = '',
     dateFrom = '';
+
+dotenv.load({path: __dirname + '/.env'});
 
 var job = new CronJob({
   cronTime: '00 00 00 * * 6',
   onTick: function() {
     /* runs every sunday 00:00:00 
-     * this is a script that will scrape data weekly
+     * this is a script that will scrape data weekly 
      */
     dateTo = moment().format('MM/DD/YYYY');
     dateFrom = moment().subtract(7,'d').format('MM/DD/YYYY');
@@ -24,8 +25,7 @@ var job = new CronJob({
       try {
         /* @returns - array */
         var data = yield scraping();
-        fs.writeFileSync(__dirname + '/' + cleanDate(dateFrom) + '-' + cleanDate(dateTo) +'.json', JSON.stringify(data, null, 2), 'utf-8');
-        console.log('done');
+        yield importing(data);
       } catch (err) {
         console.log(err);
       }
@@ -44,9 +44,60 @@ function cleanDate(date) {
   return date.replace(/\//g, "");
 }
 
+function cleanString(string) {
+  return string.replace("\'", " ").replace("\"", " ").replace(">", " ").replace("<", " ").replace("&", "and")
+}
+
 function importing(dataArr) {
   return new Promise(function (resolve, reject) {
-    /* TODO importing stuff. */
+
+    var importCounter = 0,
+      row = '',
+      arrXml = [],
+      xml = '';
+
+    console.log('transforming into valid xml ...');
+
+    for (var i = 0; i < dataArr.length; i++) {
+      xml = '<Leads>';
+      row = '<row no="1"><FL val="Company">' + cleanString(dataArr[i]['Business Name']) + '</FL><FL val="Last Name">' + cleanString(dataArr[i]['Business Name']) + '</FL>';
+      delete dataArr[i]['Business Name']
+      for (prop in dataArr[i]) {
+        row += '<FL val="' + cleanString(prop) + '">' + cleanString(dataArr[i][prop]) + '</FL>';
+      }
+      row += '</row>';
+      xml += row + '</Leads>';
+      arrXml.push(xml);
+    }
+
+    console.log('%d item(s) created, importing ...', arrXml.length);
+
+    co(function *() {
+      while (importCounter < arrXml.length) {
+        yield processing(arrXml[importCounter]);
+        importCounter++;
+        console.log(importCounter, 'of', arrXml.length, ' accounts imported ...' );
+      }
+      console.log('Importing done.');
+    });
+
+    function processing(data) { 
+      return new Promise(function (resolve, reject) {
+        req
+          .post('https://crm.zoho.com/crm/private/xml/Leads/insertRecords')
+          .query({newFormat: 1})
+          .query({authtoken: process.env.ZOHO_AUTH})
+          .query({scope: 'crmapi'})
+          .query({duplicateCheck: 2})
+          .query({version: 4})
+          .query({xmlData: data})
+          .end(function (err, res) {
+            console.log(res.text);
+            if (err) return reject(err);
+            return resolve();
+          });
+      });
+    }
   });
 }
 
