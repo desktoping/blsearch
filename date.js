@@ -45,7 +45,7 @@ function cleanDate(date) {
 }
 
 function cleanString(string) {
-  return string.replace("\'", " ").replace("\"", " ").replace(">", " ").replace("<", " ").replace("&", "and")
+  return string.replace(/\'|\"|\>|\</g, " ").replace("&", "and");
 }
 
 function importing(dataArr) {
