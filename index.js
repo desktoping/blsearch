@@ -1,20 +1,29 @@
 var jsdom = require("jsdom"),
   kue = require('kue'),
+  dontenv = require('dotenv'),
   co = require('co'),
   cheerio = require('cheerio'),
   each = require('co-each'),
-  q = kue.createQueue(),
   ctr = 2,
   zip = 109; //number of zip codes on the blsearch -- 107
 
+dontenv.load({path: '/.env'});
+
+var q = kue.createQueue({
+  redis: {
+    host: process.env.REDIS_HOST,
+    port: 6379
+  }
+});
+
 co(function *() {
   while (ctr < zip) {
-    yield process(ctr);
+    yield processing(ctr);
     ctr++;
   }
 });
 
-function process(ctr) {
+function processing(ctr) {
   return new Promise(function (resolve, reject) {
     jsdom.env(
       "https://blepay.clarkcountynv.gov/bleligibility/blinmult.asp",

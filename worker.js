@@ -5,13 +5,19 @@ var co = require('co'),
     fs = require('fs'),
     req = require('superagent'),
     mongoose = require('mongoose'),
-    Schema = mongoose.Schema,
-    q = kue.createQueue();
+    Schema = mongoose.Schema;
+
 
 
 dotenv.load({path: __dirname + '/.env'});
 
 mongoose.connect(process.env.MONGO_DB);
+var q = kue.createQueue({
+  redis: {
+    host: process.env.REDIS_HOST,
+    port: 6379
+  }
+});
 
 // ** mongoose schema
 var Business = new Schema({
@@ -32,12 +38,12 @@ var Business = new Schema({
 var AddBusiness = mongoose.model('business', Business);
 
 q.process('bl-jobs', function (job, done) {
-
+  console.log('working on job: %d', job.id);
   co(function *() {
     function saveToDb(data) {
       return new Promise(function (resolve, reject) {
         var newBusiness = new AddBusiness(data);
-        newBusiness.save(function (err) {
+        newBusiness.save(function (err, data) {
           if (err) return reject(err);
           return resolve();
         })
